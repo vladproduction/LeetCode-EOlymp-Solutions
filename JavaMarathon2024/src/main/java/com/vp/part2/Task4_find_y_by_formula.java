@@ -6,7 +6,7 @@ package com.vp.part2;
 
 import java.util.Scanner;
 
-/**calculation y by formulas depends on x range*/
+/**calculation 'y' by formulas depends on 'x' range*/
 public class Task4_find_y_by_formula {
     public static void main(String[] args) {
 
