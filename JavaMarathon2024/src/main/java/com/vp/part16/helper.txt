@@ -1,0 +1,15 @@
+
+Chess symbols[2]
+Character	Name	            Code
+♔	        White chess king	U+2654
+♕	        White chess queen	U+2655
+♖	        White chess rook	U+2656
+♗	        White chess bishop	U+2657
+♘	        White chess knight	U+2658
+♙	        White chess pawn	U+2659
+♚	        Black chess king	U+265A
+♛	        Black chess queen	U+265B
+♜	        Black chess rook	U+265C
+♝	        Black chess bishop	U+265D
+♞	        Black chess knight	U+265E
+♟︎	        Black chess pawn	U+265F
