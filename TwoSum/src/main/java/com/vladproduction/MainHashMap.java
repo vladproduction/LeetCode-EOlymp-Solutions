@@ -2,7 +2,7 @@ package com.vladproduction;
 
 import java.util.HashMap;
 
-public class Main {
+public class MainHashMap {
     public static void main(String[] args) {
         System.out.println("Two Sum task is started.");
 
